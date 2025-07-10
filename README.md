@@ -1,2 +1,3 @@
 # new project
- this project was also created for git
+ this project was also created from local system
+ 
